@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/al-quran-app/static/css/main.41f77d4c.css",
-    "main.js": "/al-quran-app/static/js/main.12e683b7.js",
+    "main.js": "/al-quran-app/static/js/main.ae27e9c6.js",
     "static/js/787.35f1445d.chunk.js": "/al-quran-app/static/js/787.35f1445d.chunk.js",
     "static/media/bg-hero-img.jpg": "/al-quran-app/static/media/bg-hero-img.25b90248b64211bb0526.jpg",
     "static/media/LPMQ IsepMisbah.ttf": "/al-quran-app/static/media/LPMQ IsepMisbah.fe9979d34d3f0af9a14c.ttf",
     "index.html": "/al-quran-app/index.html",
     "main.41f77d4c.css.map": "/al-quran-app/static/css/main.41f77d4c.css.map",
-    "main.12e683b7.js.map": "/al-quran-app/static/js/main.12e683b7.js.map",
+    "main.ae27e9c6.js.map": "/al-quran-app/static/js/main.ae27e9c6.js.map",
     "787.35f1445d.chunk.js.map": "/al-quran-app/static/js/787.35f1445d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41f77d4c.css",
-    "static/js/main.12e683b7.js"
+    "static/js/main.ae27e9c6.js"
   ]
 }
