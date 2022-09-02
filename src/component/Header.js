@@ -13,7 +13,7 @@ export default function Header() {
 		<header className={`py-3 w-full fixed top-0 z-20 bg-white ${scroll > 0 ? "shadow-md" : "shadow-none"}`}>
 			<div className="container">
 				<div className="w-full flex flex-wrap justify-between items-center">
-					<h2 className="font-semibold text-stone-600">My Al - Quran</h2>
+					<div className="font-semibold text-stone-600">My Al - Quran</div>
 					<NavbarHeader />
 				</div>
 			</div>
